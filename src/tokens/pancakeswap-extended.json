@@ -3422,5 +3422,13 @@
     "chainId": 56,
     "decimals": 8,
     "logoURI": "https://tokens.pancakeswap.finance/images/0x0555E30da8f98308EdB960aa94C0Db47230d2B9c.png"
+  },
+  {
+    "chainId": 56,
+    "address": "0xe8db729E3B9D1263A60304A49D5d24563488aFac",
+    "name": "Contarium",
+    "symbol": "CTR",
+    "decimals": 18,
+    "logoURI": "https://github.com/omerso57/contarium-token/blob/main/Contarium_logo.png?raw=true"
   }
-]
+
